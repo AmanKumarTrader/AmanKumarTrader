@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Aman Kumar
 
-<!--
-**AmanKumarTrader/AmanKumarTrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning from a discretionary derivatives trading background to systematic/quantitative strategy design.  
+I've managed a ₹50 Cr options book and deployed strategies like delta-hedging, expiry straddles, CR, butterflies, and iron flies.
 
-Here are some ideas to get you started:
+Now, I’m rebuilding that edge through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Learning Focus
+- Python for Quant Strategy  
+- Volatility Modeling  
+- Backtesting Frameworks  
+- Market Microstructure  
+- Systematic Thinking
+
+## 🛠️ Current Projects
+- Backtesting expiry straddles  
+- Delta hedge simulations  
+- Leetcode logic builder  
+- Quant roadmap (public repo)
+
+## 📚 Recent Additions
+- [quant-roadmap](https://github.com/AmanKumarTrader/quant-roadmap)  
+- [strategy-backtests](https://github.com/AmanKumarTrader/strategy-backtests)  
+
+Let’s connect — I’m building in public.  
+
